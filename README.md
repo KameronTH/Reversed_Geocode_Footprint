@@ -24,4 +24,4 @@ but should work with other geopy geocoders.
 [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright)\
 [Geopandas](https://geopandas.org/en/stable/)\
 [geopy](https://geopy.readthedocs.io/en/stable/)\
-[QGIS](https://qgis.org/)
+[QGIS](https://qgis.org/) 

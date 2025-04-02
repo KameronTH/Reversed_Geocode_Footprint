@@ -11,7 +11,7 @@ from [Microsoft's Building Footprint](https://github.com/microsoft/USBuildingFoo
 # Files Overview
 
 ## Layouts/Finals/2025-03-16 Reversed Geocoded MS Footprints.png
-![Reversed Geocoded MS Footprints]([/Layouts/Finals/2025-03-16 Reversed Geocoded MS Footprints.png](Layouts/Finals/2025-03-16 Reversed Geocoded MS Footprints.png)
+![Reversed Geocoded MS Footprints]([/Layouts/Finals/2025-03-16 Reversed Geocoded MS Footprints.png](Layouts/Finals/2025-03-16%20Reversed%20Geocoded%20MS%20Footprints.png)
 A layout showing the addresses of the reverse geocoded footprints in relation to non-geocoded footprints.
 
 ## BuildingFootprintsSelector.py
